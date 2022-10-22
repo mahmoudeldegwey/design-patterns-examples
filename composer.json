@@ -1,0 +1,24 @@
+{
+    "name": "mahmoud/design-patterns",
+    "description":"design patterns implementation",
+    "license":["MIT"],
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Mahmoud Eldegwey",
+            "email": "eldegwey.m@gmail.com"
+        }
+    ],
+    "require": {
+        "phpunit/phpunit":"^8.5.8"
+    },
+    "scripts": {
+        "test" : "vendor/bin/phpunit"
+    },
+    "autoload":{
+        "psr-4":{
+            "Creational\\":"Creational",
+            "Builder\\":"Builder"
+        }
+    }
+}

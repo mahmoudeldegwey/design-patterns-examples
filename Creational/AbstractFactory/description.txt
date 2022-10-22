@@ -1,0 +1,4 @@
+- To create series of related or dependent objects without specifying their blueprint classes. usually the created classes all implement the same interface
+(when their is an interface global between classes and whant to create a object from one class of them , so create a abstract factory class groub that cleeses in one class)
+
+لو عندي اكتر من اوبجكت بيعمل نفس ال الخواص عادة بيكون ليهم نفس الواجهة

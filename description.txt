@@ -1,0 +1,3 @@
+What is difference between creational and structural design pattern?
+
+The Creational pattern focuses on object creation; the Structural pattern relies on the relationship between objects, and Behavioural builds its communication between objects.
