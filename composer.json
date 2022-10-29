@@ -18,7 +18,8 @@
     "autoload":{
         "psr-4":{
             "Creational\\":"Creational",
-            "Builder\\":"Builder"
+            "Builder\\":"Builder",
+            "More\\":"More"
         }
     }
 }
